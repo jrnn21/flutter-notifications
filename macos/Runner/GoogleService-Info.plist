@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBqONxIq1XvuAevdmHkWHz5w893irb5PcU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>623094628632</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseNotifications.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-notification-a85ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-notification-a85ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:623094628632:ios:500e2cad3e679ef17e9e6d</string>
+</dict>
+</plist>
